@@ -1,0 +1,23 @@
+@use "../../Styles/scss/" as *;
+
+.movie-grid {
+  display: grid;
+  text-align: center;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  margin-bottom: 3rem;
+  @include tablet {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+  &__loadmore {
+    text-align: center;
+  }
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1.5rem;
+  color: $white;
+}
