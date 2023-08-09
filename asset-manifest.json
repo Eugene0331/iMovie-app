@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/iMovie-app/static/css/main.3231db82.css",
-    "main.js": "/iMovie-app/static/js/main.f662417b.js",
-    "static/media/boxicons.svg": "/iMovie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/footer-bg.jpg": "/iMovie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/iMovie-app/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/iMovie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/iMovie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/iMovie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/iMovie-app/static/media/tmovie.67797e942e59deb68592.png",
-    "index.html": "/iMovie-app/index.html",
-    "main.3231db82.css.map": "/iMovie-app/static/css/main.3231db82.css.map",
-    "main.f662417b.js.map": "/iMovie-app/static/js/main.f662417b.js.map"
+    "main.css": "/static/css/main.391f6c9e.css",
+    "main.js": "/static/js/main.e803ab10.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/index.html",
+    "main.391f6c9e.css.map": "/static/css/main.391f6c9e.css.map",
+    "main.e803ab10.js.map": "/static/js/main.e803ab10.js.map"
   },
   "entrypoints": [
-    "static/css/main.3231db82.css",
-    "static/js/main.f662417b.js"
+    "static/css/main.391f6c9e.css",
+    "static/js/main.e803ab10.js"
   ]
 }
