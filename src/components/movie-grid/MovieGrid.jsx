@@ -6,7 +6,7 @@ import tmdbApi, { category, movieType, tvType } from "../../api/tmdbApi";
 import { OutlineButton } from "../button/Button";
 import Pagination from "@mui/material/Pagination";
 import MovieSearch from "../movie-search/MovieSearch";
-import { ThemeProvider, createTheme, Fab } from "@mui/material";
+import { ThemeProvider, createTheme } from "@mui/material";
 
 const MovieGrid = ({ cate }) => {
   const [items, setItems] = useState([]);
