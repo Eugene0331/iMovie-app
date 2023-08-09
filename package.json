@@ -2,7 +2,7 @@
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eugene0331.github.io/pokedex-app",
+  "homepage": "https://github.com/Eugene0331/iMovie-app",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
