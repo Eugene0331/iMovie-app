@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Eugene0331/iMovie-app/static/css/main.d79baaaa.css",
-    "main.js": "/Eugene0331/iMovie-app/static/js/main.8a698a25.js",
-    "static/media/boxicons.svg": "/Eugene0331/iMovie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/footer-bg.jpg": "/Eugene0331/iMovie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/Eugene0331/iMovie-app/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/Eugene0331/iMovie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/Eugene0331/iMovie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/Eugene0331/iMovie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/Eugene0331/iMovie-app/static/media/tmovie.67797e942e59deb68592.png",
-    "index.html": "/Eugene0331/iMovie-app/index.html",
-    "main.d79baaaa.css.map": "/Eugene0331/iMovie-app/static/css/main.d79baaaa.css.map",
-    "main.8a698a25.js.map": "/Eugene0331/iMovie-app/static/js/main.8a698a25.js.map"
+    "main.css": "/iMovie-app/static/css/main.3231db82.css",
+    "main.js": "/iMovie-app/static/js/main.f662417b.js",
+    "static/media/boxicons.svg": "/iMovie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/iMovie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/iMovie-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/iMovie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/iMovie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/iMovie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/iMovie-app/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/iMovie-app/index.html",
+    "main.3231db82.css.map": "/iMovie-app/static/css/main.3231db82.css.map",
+    "main.f662417b.js.map": "/iMovie-app/static/js/main.f662417b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d79baaaa.css",
-    "static/js/main.8a698a25.js"
+    "static/css/main.3231db82.css",
+    "static/js/main.f662417b.js"
   ]
 }
